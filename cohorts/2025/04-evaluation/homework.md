@@ -14,8 +14,8 @@ In this dataset our desired target for classification task will be `converted` v
 
 * Check if the missing values are presented in the features.
 * If there are missing values:
-    * For caterogiral features, replace them with 'NA'
-    * For numerical features, replace with with 0.0 
+    * For categorical features, replace them with 'NA'
+    * For numerical features, replace with 0.0
 
 
 Split the data into 3 parts: train/validation/test with 60%/20%/20% distribution. Use `train_test_split` function for that with `random_state=1`

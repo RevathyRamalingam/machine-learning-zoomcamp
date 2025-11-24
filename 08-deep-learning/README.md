@@ -16,6 +16,7 @@ How to watch it:
 - If you want to learn PyTorch only, watch the module content for the theory only and then follow along the content of the PyTorch part
 - If you want to learn both (and have time), first do the module and then the PyTorch part 
 
+TensorFlow module videos:
 
 - 8.1 [Fashion classification](01-fashion-classification.md)
 - 8.2 [TensorFlow and Keras](02-tensorflow-keras.md)
@@ -49,7 +50,3 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Notes from Kemal Dahha](https://github.com/kemaldahha/machine-learning-course/blob/main/week_8_notes.ipynb)
 * [Notes from Maximilien Eyengue](https://github.com/maxim-eyengue/Python-Codes/blob/main/ML_Zoomcamp_2024/08_deep_learning/Summary_Session_08.md)
 * Add your notes here
-
-## Links
-
-* [Saturn Cloud: notebooks with GPU](https://bit.ly/saturn-mlzoomcamp)

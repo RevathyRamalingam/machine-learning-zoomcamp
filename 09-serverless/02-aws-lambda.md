@@ -44,7 +44,7 @@
 - **Ease of Use 🎯:** Focus on coding; AWS handles infrastructure.  
 
 ### **Dynamic Link Management Use Case 🌐**
- `AWS lambda` was used to automatically redirect users to updated invite links for joining the DataTalks.Club community. This is to avoid expired links on the user side, by using a Lambda function that reads from a config file where invitation links can be update.  
+ `AWS lambda` was used to automatically redirect users to updated invite links for joining the DataTalks.Club community. This is to avoid expired links on the user side, by using a Lambda function that reads from a config file where invitation links can be updated.  
 
 ### Free Tier Usage
 Note that `AWS Lambda` offers a free tier that includes a certain number of free requests (1 million requests per month), and free compute time (400,000 GB-seconds per month).

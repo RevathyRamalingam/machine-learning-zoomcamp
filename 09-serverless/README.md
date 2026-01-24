@@ -6,10 +6,11 @@ Use the [workshop](workshop/) for most of the content.
 The content in the module still works, but most of it is outdated
 and doesn't work with newer version of Python.
 
-The unit 9.7 could still be relevant.
+Check 9.1 and 9.2 for introduction, but for the rest of the module, 
+use the workshop materials. Also, unit 9.7 could still be relevant.
 
-- (Outdated) 9.1 [Introduction to Serverless](01-intro.md)
-- (Outdated) 9.2 [AWS Lambda](02-aws-lambda.md)
+- 9.1 [Introduction to Serverless](01-intro.md)
+- 9.2 [AWS Lambda](02-aws-lambda.md)
 - (Outdated) 9.3 [TensorFlow Lite](03-tensorflow-lite.md)
 - (Outdated) 9.4 [Preparing the code for Lambda](04-preparing-code.md)
 - (Outdated) 9.5 [Preparing a Docker image](05-docker-image.md)

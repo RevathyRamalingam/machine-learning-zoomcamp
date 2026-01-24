@@ -1,5 +1,12 @@
 ## 10. Kubernetes and TensorFlow Serving
 
+Note: these materials are partly outdated, which
+is why we recorded a workshop that updates this module.
+You will find the materials in the [workshop/](workshop/) folder
+
+You don't need to watch any of the module videos. But lessons 10.5 and 10.8 may still be useful.
+
+
 - 10.1 [Overview](01-overview.md)
 - 10.2 [TensorFlow Serving](02-tensorflow-serving.md)
 - 10.3 [Creating a pre-processing service](03-preprocessing.md)
@@ -20,4 +27,5 @@ Did you take notes? You can share them here (or in each unit separately)
 * [Alvaro Navas' Notes](https://github.com/ziritrion/ml-zoomcamp/blob/main/notes/10_kubernetes.md)
 * [Notes from Oscar Garcia](https://github.com/ozkary/machine-learning-engineering/tree/main/10-kubernetes)
 * [Notes from Maximilien Eyengue](https://github.com/maxim-eyengue/Python-Codes/blob/main/ML_Zoomcamp_2024/10_kubernetes/Summary_Session_10.md)
+* [Notes from Revathy Ramalingam](https://github.com/RevathyRamalingam/machineLearning/tree/main/10-kubernetes/README.md)
 * Add your notes here
